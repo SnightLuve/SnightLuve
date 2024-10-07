@@ -3,6 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snightluve&label=Profile%20views&color=0e75b6&style=flat" alt="snightluve" /> </p>
 
+- 🌱 I’m currently learning **React**
+
+- 👨‍💻 All of my projects are available at [https://github.com/SnightLuve](https://github.com/SnightLuve)
+
+- 📫 How to reach me **snightluve@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
